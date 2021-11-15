@@ -1,0 +1,13 @@
+// Placeholder to allow overriding predefined variables smoothly.
+
+$content-width: 1200px;
+
+$header-color: #999999;
+$header-color-light: lighten($header-color, 80%);
+$header-color-dark: darken($header-color, 10%);
+
+$site-title-color: $header-color-light;
+
+$border-color-01: #181818;
+$border-color-02: #181818;
+$border-color-03: #181818;
