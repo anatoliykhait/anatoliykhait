@@ -6,20 +6,37 @@ title: Home
 # Welcome to our group
 
 We study complex nonlinear phenomena in fluid mechanics.
-Our main focus is on ocean waves dynamics and transport processes in upper ocean layer.
-We are also interested in mass and heat exchange in strongly turbulent flows.
+Our main focus is on ocean waves dynamics and transport processes in the upper ocean layer.
+We also study heat and mass exchange in strongly turbulent flows.
 
-### Main research interests:
-- a
-- b
+Our aim is to bring together analytical, numerical and experimental efforts to shed light
+on complicated and yet not understood nonlinear phenomena in fluid mechanics.
+Pursuing fundamental research we always keep in mind their positive implications
+on innovative engineering developments.
+
+### Research interests:
+
+- Surface gravity water waves dynamics.<br>
+    We employ mathematical simplifications (flow potentiality, order analysis, etc.)
+    to gain a better understanding of physics.
+- Multiphase phenomena in upper ocean layer: ocean-atmosphere interactions.<br>
+    High-performance parallel computing with in-house and open-source codes
+    written in C++ / Python.
+- Nonlinear interaction of water waves with submerged solids.<br>
+    Anatytical and numerical studies of water waves impact on engineerign structures.
+- Turbulence modeling.<br>
+    Development of semi-empirical turbulence models with their consequent calibration.
+- We are open to new challenges
 
 <div class="div-wanted">
 M.Sc./Ph.D./Postdoc students are wanted
 
 <div class="div-wanted-2">
-We are continuously seeking highly motivated and talented students interested in multidisciplinary research in the fields related to fluid mechanics.
-
-For further information please contact Dr. Anatoliy Khait at:
-<anatoliyk@ariel.ac.il>
+We are continuously seeking highly motivated and talented students interested in 
+joining our group to work on various multidisciplinary research projects
+related to fluid dynamics.
+<br><br>
+For any further information please do not hesitate to contact Dr Anatoliy Khait at:
+<a href = "mailto: anatoliyk@ariel.ac.il">anatoliyk@ariel.ac.il</a>
 </div>
 </div>
