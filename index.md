@@ -27,16 +27,3 @@ on innovative engineering developments.
 - Turbulence modeling.<br>
     Development of semi-empirical turbulence models with their consequent calibration.
 - We are open to new challenges
-
-<div class="div-wanted">
-M.Sc./Ph.D./Postdoc students are wanted
-
-<div class="div-wanted-2">
-We are continuously seeking highly motivated and talented students interested in 
-joining our group to work on various multidisciplinary research projects
-related to fluid dynamics.
-<br><br>
-For any further information please do not hesitate to contact Dr Anatoliy Khait at:
-<a href = "mailto: anatoliyk@ariel.ac.il">anatoliyk@ariel.ac.il</a>
-</div>
-</div>

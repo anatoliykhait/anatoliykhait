@@ -48,6 +48,16 @@
   h4, h5, h6 { margin-top: $spacing-unit * 1}
 }
 
+.content-column-left {
+  float: left;
+  width: calc(100% - 300px);
+}
+
+.content-column-right {
+  float: left;
+  width: 300px;
+}
+
 .div-wanted {
   background-color: rgb(220, 240, 250);
   box-sizing: border-box;
