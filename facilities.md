@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Facilities and software
+title: Facilities
 permalink: /facilities/
 ---
 

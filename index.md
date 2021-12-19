@@ -26,7 +26,7 @@ on innovative engineering developments.
     Anatytical and numerical studies of water waves impact on engineerign structures.
 - Turbulence modeling.<br>
     Development of semi-empirical turbulence models with their consequent calibration.
-- We are open to new challenges
+- We are also open to new challenges
 
 <div class="div-wanted">
 M.Sc./Ph.D./Postdoc students are wanted
