@@ -4,7 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-<!-- ![High-Fidelity Direct Numerical Simulation](/img/anim_cfd.gif){: style="float: left" width="40%"} -->
+# Ongoing research projects
+
 <img style="padding-right: 20px; float: left;" width="40%"
      alt="High-Fidelity Direct Numerical Simulation"
      src="/img/anim_cfd.gif">
