@@ -22,6 +22,11 @@
 
 .site-footer {
   border-top: 4px solid $border-color-01;
+  background-color: $background-color-ariel;
+}
+
+.site-header {
+  border-bottom: 4px solid $border-color-01;
 }
 
 .footer-col-wrapper,
@@ -49,16 +54,16 @@
 }
 
 .div-wanted {
-  background-color: rgb(200, 235, 235);
+  background-color: $background-color-ariel;
   box-sizing: border-box;
-  border:2px solid rgb(60, 130, 140);
+  border:2px solid $border-color-04;
   margin-top: 20px;
   margin-bottom: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 20px;
   padding-right: 20px;
-  color: rgb(60, 130, 140);
+  color: $border-color-04;
   font-weight: bold;
   font-size: 26px;
 }
