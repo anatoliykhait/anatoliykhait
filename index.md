@@ -11,7 +11,7 @@ We also study heat and mass exchange in strongly turbulent flows.
 
 Our aim is to bring together analytical, numerical and experimental efforts to shed light
 on complicated and yet not understood nonlinear phenomena in fluid mechanics.
-Pursuing fundamental research we always keep in mind their positive implications
+Pursuing fundamental research we always keep in mind its positive implications
 on innovative engineering developments.
 
 ### Research interests:
