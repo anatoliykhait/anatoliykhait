@@ -6,7 +6,7 @@ permalink: /contact/
 
 <img style="padding-right: 50px; float: left;" width="600px"
      alt="Campus Map"
-     src="/img/Ariel_map.png">
+     src="/img/Ariel_map.jpg">
 
 Dr Anatoliy Khait
 
@@ -18,4 +18,6 @@ Room 8.1.1, Building 8<br>
 Department of Mechanical Engineering & Mechatronics<br>
 Faculty of Engineering<br>
 Ariel University<br>
-Ariel 40700 Israel 
+Ariel 40700 Israel
+
+[University Campus Map](https://www.ariel.ac.il/wp/wp-content/uploads/2019/03/AU-Campus-Map.pdf){:target="_blank"}

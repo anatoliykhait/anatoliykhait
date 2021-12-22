@@ -27,10 +27,10 @@ permalink: /team/
 - Dec.2016-Apr.2019 - Post-Doctoral Fellow with Prof. Lev Shemer\
   Water Waves Research Laboratory, School of Mechanical Engineering,\
   Tel Aviv University, Israel
-- 2014-2016 - Lecturer, later Senior Lecturer (non-tenured)\
+- 2011-2016 - Teaching assistant, Lecturer, Senior Lecturer (non-tenured)\
   Institute of Civil Engineering, Ural Federal University, Russia
 
-[Curriculum vitae](/cv.pdf){:target="_blank"}<br>
+[Curriculum Vitae](/cv.pdf){:target="_blank"}<br>
 [Google Scholar](https://scholar.google.com/citations?user=rb43D9MAAAAJ){:target="_blank"}<br>
 [Research Gate](http://www.researchgate.net/profile/Anatoliy_Khait){:target="_blank"}<br>
 <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
