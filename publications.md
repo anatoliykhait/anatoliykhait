@@ -66,7 +66,6 @@ permalink: /publications/
 - __A. Khait__, L. Shemer, Wave energy dissipation in two-dimensional breakers.\
   The 35th Israeli Conference on Mechanical Engineering - ICME 2018.\
   [https://www.researchgate.net/publication/346397624_Wave_energy_dissipation_in_two-dimensional_breakers](https://www.researchgate.net/publication/346397624_Wave_energy_dissipation_in_two-dimensional_breakers){:target="_blank"}
-- [](){:target="_blank"}
 
 ## 2016
 

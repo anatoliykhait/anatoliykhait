@@ -10,7 +10,7 @@ permalink: /research/
 
 <img style="padding-right: 20px; padding-bottom: 100px; padding-top: 20px; float: left;" width="40%"
      alt="High-Fidelity Direct Numerical Simulation"
-     src="/img/anim_cfd.gif">
+     src="/anim/anim_cfd.gif">
 
 ## Energy exchange in the upper ocean layer
 
@@ -29,7 +29,7 @@ at different scales, including planetary scale.
 
 <img style="padding-right: 20px; padding-bottom: 100px; padding-top: 20px; float: left;" width="40%"
      alt="Laboratory Video Imaging"
-     src="/img/anim_exp.gif">
+     src="/anim/anim_exp.gif">
 
 ## Kinematics of nonlinear extreme waves
 
@@ -47,7 +47,7 @@ on coastal and offshore structures.
 
 <img style="padding-right: 20px; padding-bottom: 100px; padding-top: 20px; float: left;" width="40%"
      alt="Generation of Nonlinear Wave"
-     src="/img/anim_wm.gif">
+     src="/anim/anim_wm.gif">
 
 ## Wave generation and wave interaction with submerged solids
 
@@ -66,7 +66,7 @@ This includes wave generation by mechanical wavemakers.
 
 <img style="padding-right: 20px; padding-bottom: 100px; padding-top: 20px; float: left;" width="40%"
      alt="Transonic Strongly-Turbulent Vortex"
-     src="/img/anim_vort.gif">
+     src="/anim/anim_vort.gif">
 
 ## Energy transfer in strongly turbulent flows
 
