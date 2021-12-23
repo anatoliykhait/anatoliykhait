@@ -113,3 +113,7 @@ permalink: /publications/
   Proceedings of the 13th International Conference on Construction Applications of Virtual Reality,
   2013, 629–638, London, UK.\
   [http://itc.scix.net/data/works/att/convr-2013-64.pdf](http://itc.scix.net/data/works/att/convr-2013-64.pdf){:target="_blank"}
+
+## For more details follow the link:
+
+[https://scholar.google.co.il/citations?user=rb43D9MAAAAJ&hl=en](https://scholar.google.co.il/citations?user=rb43D9MAAAAJ&hl=en){:target="_blank"}
