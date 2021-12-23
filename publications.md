@@ -4,6 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
+## Open-source
+
+- Matlab implementation of second-order wavemaker theory base on Zakharov equation:\
+  [https://github.com/anatoliykhait/wavemakerZ](https://github.com/anatoliykhait/wavemakerZ){:target="_blank"}
+- OpenFOAM wavemaker boundary condition based on Zakharov equation second-order wavemkaer theory.\
+  [https://github.com/anatoliykhait/libwaveMakerZ](https://github.com/anatoliykhait/libwaveMakerZ){:target="_blank"}\
+  [https://github.com/anatoliykhait/libwaveMakerZ_tutorial](https://github.com/anatoliykhait/libwaveMakerZ_tutorial){:target="_blank"}
+
 ## 2021
 
 - __A. Khait__, Z. Ma, On an eddy viscosity model for energetic deep-water surface gravity wave breaking.\

@@ -30,10 +30,10 @@ permalink: /team/
 - 2011-2016 - Teaching assistant, Lecturer, Senior Lecturer (non-tenured)\
   Institute of Civil Engineering, Ural Federal University, Russia
 
+Email: <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br>
 [Curriculum Vitae](/cv.pdf){:target="_blank"}<br>
 [Google Scholar](https://scholar.google.com/citations?user=rb43D9MAAAAJ){:target="_blank"}<br>
-[Research Gate](http://www.researchgate.net/profile/Anatoliy_Khait){:target="_blank"}<br>
-<a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+[Research Gate](http://www.researchgate.net/profile/Anatoliy_Khait){:target="_blank"}
 
 <div class="div-wanted">
 M.Sc./Ph.D./Postdoc students are wanted
