@@ -4,15 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
-## Open-source
+# Open source
 
 - Matlab implementation of second-order wavemaker theory base on Zakharov equation:\
-  [https://github.com/anatoliykhait/wavemakerZ](https://github.com/anatoliykhait/wavemakerZ){:target="_blank"}
-- OpenFOAM wavemaker boundary condition based on Zakharov equation second-order wavemkaer theory.\
+  [https://github.com/anatoliykhait/wavemakerZ](https://github.com/anatoliykhait/wavemakerZ){:target="_blank"}\
+  [paper 1](#paper_wm_1) &nbsp;&nbsp; [paper 2](#paper_wm_2)
+- OpenFOAM wavemaker boundary condition based on Zakharov equation second-order wavemkaer theory:\
   [https://github.com/anatoliykhait/libwaveMakerZ](https://github.com/anatoliykhait/libwaveMakerZ){:target="_blank"}\
-  [https://github.com/anatoliykhait/libwaveMakerZ_tutorial](https://github.com/anatoliykhait/libwaveMakerZ_tutorial){:target="_blank"}
+  [https://github.com/anatoliykhait/libwaveMakerZ_tutorial](https://github.com/anatoliykhait/libwaveMakerZ_tutorial){:target="_blank"}\
+  [paper 1](#paper_wm_1) &nbsp;&nbsp; [paper 2](#paper_wm_2)
 
-## 2021
+# 2021
 
 - __A. Khait__, Z. Ma, On an eddy viscosity model for energetic deep-water surface gravity wave breaking.\
   Journal of Fluid Mechanics, 929 (2021), A29.\
@@ -27,8 +29,9 @@ permalink: /publications/
   Proceedings of the Institution of Civil Engineers - Maritime Engineering, 2021.\
   [https://doi.org/10.1680/jmaen.2020.33](https://doi.org/10.1680/jmaen.2020.33){:target="_blank"}  
 
-## 2020
+# 2020
 
+<a name="paper_wm_2"/>
 - __A. Khait__, Third-Order Generation of Narrow-Banded Wave Trains by a Wavemaker.\
   Ocean Engineering, 218 (2020), 108200.\
   [https://doi.org/10.1016/j.oceaneng.2020.108200](https://doi.org/10.1016/j.oceaneng.2020.108200){:target="_blank"}
@@ -41,10 +44,10 @@ permalink: /publications/
 - __A. Khait__, Z. Ma, L. Qian, W. Bai, Z. Lin, Energy Dissipation and Non-Potential Effects in Wave Breaking.\
   Proceedings of the Thirtieth (2020) International Ocean and Polar Engineering Conference. Paper number ISOPE 2020-TPC-0369.
   [https://www.onepetro.org/conference-paper/ISOPE-I-20-3186](https://www.onepetro.org/conference-paper/ISOPE-I-20-3186){:target="_blank"}
-- [](){:target="_blank"}
 
-## 2019
+# 2019
 
+<a name="paper_wm_1"/>
 - __A. Khait__, L. Shemer, Nonlinear wave generation by a wavemaker in deep to intermediate water depth.\
   Ocean Engineering, 182 (2019), 222-234.\
   [https://doi.org/10.1016/j.oceaneng.2019.04.065](https://doi.org/10.1016/j.oceaneng.2019.04.065){:target="_blank"}
@@ -55,7 +58,7 @@ permalink: /publications/
   ASME paper OMAE2019-95364.
   [https://doi.org/10.1115/OMAE2019-95364](https://doi.org/10.1115/OMAE2019-95364){:target="_blank"}
 
-## 2018
+# 2018
 
 - __A. Khait__, L. Shemer, On the kinematic criterion for the inception of breaking in surface gravity waves:
   Fully-nonlinear numerical simulations and experimental verification.\
@@ -75,7 +78,7 @@ permalink: /publications/
   The 35th Israeli Conference on Mechanical Engineering - ICME 2018.\
   [https://www.researchgate.net/publication/346397624_Wave_energy_dissipation_in_two-dimensional_breakers](https://www.researchgate.net/publication/346397624_Wave_energy_dissipation_in_two-dimensional_breakers){:target="_blank"}
 
-## 2016
+# 2016
 
 - V. Bianco, __A. Khait__, A. Noskov, V. Alekhin, A comparison of the application of RSM and LES turbulence models
   in the numerical simulation of thermal and flow patterns in a double-circuit Ranque-Hilsch vortex tube.\
@@ -90,20 +93,20 @@ permalink: /publications/
   Chemical and Petroleum Engineering, 52(3–4), 2016, 280–289.
   [https://doi.org/10.1007/s10556-016-0187-4](https://doi.org/10.1007/s10556-016-0187-4){:target="_blank"}
 
-## 2015
+# 2015
 
 - V. Alekhin, V. Bianco, __A. Khait__, A. Noskov, Numerical investigation of a double-circuit Ranque-Hilsch vortex tube.\
   International Journal of Thermal Sciences, 89, 2015, 272–282.\
   [https://doi.org/10.1016/j.ijthermalsci.2014.11.012](https://doi.org/10.1016/j.ijthermalsci.2014.11.012){:target="_blank"}
 
-## 2014
+# 2014
 
 - __A.V. Khait__, A.S. Noskov, A.V. Lovtsov, V.N. Alekhin, Semi-empirical turbulence model for numerical simulation
   of swirled compressible flows observed in Ranque-Hilsch vortex tube.\
   International Journal of Refrigeration, 48, 2014, 132–141.\
   [https://doi.org/10.1016/j.ijrefrig.2014.09.006](https://doi.org/10.1016/j.ijrefrig.2014.09.006){:target="_blank"}
 
-## 2013
+# 2013
 
 - A.S. Noskov, V.N. Alekhin, __A.V. Khait__, Numerical investigation of Ranque-Hilsch energy separation effect.\
   Applied Mechanics and Materials, 281, 2013, 355–358.

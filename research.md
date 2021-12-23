@@ -16,12 +16,12 @@ permalink: /research/
 
 Energy exchange between oceans and the atmosphere appears in the thin air and water layer
 in the vicinity of the phase interface (free surface). Such a thin layer is usually
-referred to as ocean upper layer analogous to boundary layer distinguished in the flows
+referred to as upper ocean layer analogous to boundary layer distinguished in the flows
 above the solid surface.
 Atmosphere flows and ocean currents observed in this layer combined with
 the wave-induced vorticity field lead to complicated turbulent transfer processes, such as
 heat exchange, ocean aeration, transport of chemicals, sea spray (aerosol) production, etc.
-Most of these effects are not understood but are known to have dramatic importance
+Most of these effects are not well understood but are known to have dramatic importance
 at different scales, including planetary scale.
 
 <br clear="all">
@@ -35,11 +35,11 @@ at different scales, including planetary scale.
 
 Breaking of ocean waves is the dominant mechanism to dissipate kinetic energy
 conserved in the ocean as a result of its interaction with the atmosphere.
-Destabilization of a single wave crest appears due to wave inability to carry
+Destabilization of a single wave crest appears due to inability of wave to carry
 the required energy flux. Recently it was shown that energetic criterion
 of wave stability can be reduced to kinematics of fluid particles and wave crests,
 which itself was found to be unexpectidly complicated.
-Moreover, kinematics of extreme waves has a dominant contribution to the loading
+Moreover, kinematics of extreme waves contributes dominantly to the loading
 on coastal and offshore structures.
 
 <br clear="all">
@@ -57,7 +57,7 @@ Its restriction to infinitesimal wave height led to derivation of multiple corre
 taking into account finite wave height and associated nonlinear effects.
 Nonetheless, a significant inaccuracy in wave generation still exists and has no generally
 accepted explanation of its physical origin. In this project, we implement state-of-the-art
-analytic and numerical techniques to gain a better physical insight into the interaction
+analytic and numerical techniques to gain a physical insight into the interaction
 of nonlinear wave fields with the stationary and moving solid bodies submerged in the water.
 This includes wave generation by mechanical wavemakers.
 
@@ -75,7 +75,7 @@ of all turbulent scales is infeasible even by the use of the most advanced compu
 To facilitate the computations, a small scale mass and energy exchange is taken into account
 by the so-called turbulent conductivity, which is an artificial effect governed
 by the semi-empirical turbulence models. Existing inaccuracies in these models
-due to insufficient understanding of turbulent heat transfer result in the inability
+due to insufficient understanding of turbulent heat transfer result in inability
 of proper simulation of high-speed compressible vortex flows. Recently we have suggested
 a correction to the semi-empirical turbulence models by introducing a missed contribution
 to the heat exchange due to fluid compressibility.

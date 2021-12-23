@@ -24,7 +24,7 @@ permalink: /team/
 - May.2019-Jul.2021 - Post-Doctoral Research Associate (PDRA)\
   Centre for Mathematical Modelling and Flow Analysis, Department of Computing and Mathematics,\
   Manchester Metropolitan University, United Kingdom
-- Dec.2016-Apr.2019 - Post-Doctoral Fellow with Prof. Lev Shemer\
+- Dec.2016-Apr.2019 - Post-Doctoral Fellow with Prof Lev Shemer\
   Water Waves Research Laboratory, School of Mechanical Engineering,\
   Tel Aviv University, Israel
 - 2011-2016 - Teaching assistant, Lecturer, Senior Lecturer (non-tenured)\

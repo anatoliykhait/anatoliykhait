@@ -21,3 +21,5 @@ Ariel University<br>
 Ariel 40700 Israel
 
 [University Campus Map](https://www.ariel.ac.il/wp/wp-content/uploads/2019/03/AU-Campus-Map.pdf){:target="_blank"}
+
+[Mechanical Engineering & Mechatronics](https://www.ariel.ac.il/wp/me/en/){:target="_blank"}

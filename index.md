@@ -6,7 +6,7 @@ title: Home
 # Welcome to our group
 
 We study complex nonlinear phenomena in fluid mechanics.
-Our main focus is on ocean waves dynamics and transport processes in the upper ocean layer.
+Our main focus is ocean waves dynamics and transport processes in upper ocean layer.
 We also study heat and mass exchange in strongly turbulent flows.
 
 Our aim is to bring together analytical, numerical and experimental efforts to shed light
