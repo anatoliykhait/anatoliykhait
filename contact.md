@@ -13,21 +13,21 @@ permalink: /contact/
   </div>
 
   <div style="float:left; width:300px;">
-    Dr Anatoliy Khait
+    {{ site.author.name }}
     <br>
     Email: <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
     <br><br>
     Office:
     <br>
-    Room 8.1.7, Building 8
+    Room {{ site.author.room }}, Building {{ site.author.building }}
     <br><br>
-    <a href="https://www.ariel.ac.il/wp/me/en/" target="_blank">Department of Mechanical Engineering &amp; Mechatronics</a>
+    <a href="https://www.ariel.ac.il/wp/me/en/" target="_blank">{{ site.author.department }}</a>
     <br>
-    <a href="https://www.ariel.ac.il/wp/eng/en/" target="_blank">Faculty of Engineering</a>
+    <a href="https://www.ariel.ac.il/wp/eng/en/" target="_blank">{{ site.author.faculty }}</a>
     <br>
-    Ariel University
+    {{ site.author.university }}
     <br>
-    Ariel 40700 Israel
+    {{ site.author.address }}
     <br><br>
     <a href="https://www.ariel.ac.il/wp/wp-content/uploads/2019/03/AU-Campus-Map.pdf" target="_blank">University Campus Map</a>
   </div>

@@ -2,17 +2,12 @@ title: Fluid and Ocean Mechanics
 author:
   name: Dr Anatoliy Khait
   email: anatoliyk@ariel.ac.il
-  room: 8.1.1
-description: > # this means to ignore newlines until "show_excerpts:"
-   Department of Mechanical Engineering & Mechatronics
-   <br>
-   Faculty of Engineering
-   <br>
-   Ariel University
-   <br>
-   Ariel 40700 Israel
-   <br>
-   <img src="/logo/Ariel_logo.png" alt="Test image" width="200px" align="right">
+  room: 8.1.7
+  building: 8
+  department: Department of Mechanical Engineering & Mechatronics
+  faculty: Faculty of Engineering
+  university: Ariel University
+  address: Ariel 40700 Israel
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
