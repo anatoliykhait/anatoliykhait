@@ -6,7 +6,7 @@ permalink: /contact/
 
 <div style="width:100%; border: 0px solid #FFF;">
 
-  <div style="float:left; width:600px; padding-right:50px;">
+  <div style="float:left; max-width:600px; padding-right:50px;">
     <img style="float:left; width:100%;"
          alt="Campus Map"
          src="/img/Ariel_map.jpg">
