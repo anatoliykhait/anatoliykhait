@@ -35,11 +35,12 @@ Email: <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.e
 [Google Scholar](https://scholar.google.com/citations?user=rb43D9MAAAAJ){:target="_blank"}<br>
 [Research Gate](http://www.researchgate.net/profile/Anatoliy_Khait){:target="_blank"}
 
+<!---
 <div class="div-wanted">
 M.Sc./Ph.D./Postdoc students are wanted
 
 <div class="div-wanted-2">
-We are continuously seeking highly motivated and talented students interested in 
+We are continuously seeking highly motivated and talented students interested in
 joining our group to work on various multidisciplinary research projects
 related to fluid dynamics.
 <br><br>
@@ -47,3 +48,4 @@ For any further information please do not hesitate to contact Dr Anatoliy Khait 
 <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
 </div>
 </div>
+-->
